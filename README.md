@@ -48,7 +48,7 @@ Currently **open to work** as a full-time professional, freelancer, or co-founde
 
 ## 🛠️ Tech Stack
 
-**Languages:** Node.js | Python | JavaScript | Go
+**Languages:** Node.js | Python | JavaScript | Go | Rust
 
 **Databases:** PostgreSQL | MongoDB | Redis | MySQL
 
